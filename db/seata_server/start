@@ -1,0 +1,4 @@
+1.修改seata_server里file.conf的mysql地址
+2.启动windows版seata_server
+seata-server.bat -p 8091 -h 127.0.0.1
+这里的ip最好写本机真实ip
